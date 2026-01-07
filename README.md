@@ -61,7 +61,7 @@ India’s sports market is projected to grow from **₹4.5 lakh crore (2023)** t
 
 ## 📂 Repository Structure
 /docs        → Documentation  
-/seeker-talent-hub.zip         → Source code  
+/seeker-talent-hub         → Source code  
 README.md    → Project overview  
 
 
