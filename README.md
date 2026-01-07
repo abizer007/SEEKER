@@ -124,5 +124,4 @@ Feel free to fork the repository, raise issues, or submit pull requests.
 
 📜 License
 
-This project is developed for academic and prototype purposes.
-License details can be updated as needed.
+Apache 2.0
