@@ -83,8 +83,9 @@ README.md    → Project overview
 ---
 
 ## 🤝 Contributions
-Contributions are welcome!  
-Fork the repo, raise issues, or submit pull requests.
+- Abizer Masavi
+- Shreyash Nikam
+- Swapnil Pal
 
 ---
 
