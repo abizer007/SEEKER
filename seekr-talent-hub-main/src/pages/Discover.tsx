@@ -23,20 +23,20 @@ const Discover = () => {
   const dummyAthletes = [
     {
       id: 1,
-      name: "John Rodriguez",
+      name: "Rohan Kapoor",
       sport: "Football",
       location: "Mumbai, India",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohan",
       thumbnail: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
       views: 1250,
       likes: 89,
     },
     {
       id: 2,
-      name: "Emma Thompson",
+      name: "Ananya Reddy",
       sport: "Cricket",
       location: "Kolkata, India",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Ananya",
       thumbnail: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
       views: 2100,
       likes: 145,
@@ -86,12 +86,12 @@ const Discover = () => {
   const dummyCoaches = [
     {
       id: 1,
-      name: "Mike Chen",
+      name: "Vikram Singh",
       sport: "Basketball",
       club: "Bangalore Basketball Academy",
       location: "Bangalore, India",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram",
     },
     {
       id: 2,
@@ -104,21 +104,21 @@ const Discover = () => {
     },
     {
       id: 3,
-      name: "Carlos Rodriguez",
+      name: "Arjun Mehta",
       sport: "Football",
       club: "Mumbai FC Academy",
       location: "Mumbai, India",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Carlos",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Arjun",
     },
     {
       id: 4,
-      name: "Diego Martinez",
+      name: "Siddharth Nair",
       sport: "Football",
       club: "Goa Football Training Center",
       location: "Goa, India",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Diego",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Siddharth",
     },
     {
       id: 5,
@@ -161,12 +161,12 @@ const Discover = () => {
   const dummyScouts = [
     {
       id: 1,
-      name: "Sarah Mitchell",
+      name: "Kavita Desai",
       sport: "Football",
       club: "Mumbai FC",
       location: "Mumbai, India",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Kavita",
     },
     {
       id: 2,
@@ -197,12 +197,12 @@ const Discover = () => {
     },
     {
       id: 5,
-      name: "Marcus Johnson",
+      name: "Aditya Verma",
       sport: "Basketball",
       club: "NBA India Scouts",
       location: "Delhi, India",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Aditya",
     },
     {
       id: 6,
@@ -352,7 +352,7 @@ const Discover = () => {
           <div className="flex items-center justify-between mb-4">
             <div>
               <h1 className="text-4xl font-bold mb-2">Discover</h1>
-              <p className="text-muted-foreground">Explore talent from around the world</p>
+              <p className="text-muted-foreground">Explore talent from across India</p>
             </div>
             <Button onClick={() => setUploadDialogOpen(true)}>
               <Plus className="mr-2 h-4 w-4" />

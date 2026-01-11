@@ -57,7 +57,7 @@ const Home = () => {
               <Trophy className="h-12 w-12 text-primary mb-4" />
               <h3 className="text-2xl font-bold mb-3">Our Vision</h3>
               <p className="text-muted-foreground">
-                To be the digital home of undiscovered sports talent worldwide.
+                To be the digital home of undiscovered sports talent across India.
               </p>
             </Card>
             <Card className="p-8 border-2 hover:shadow-[var(--shadow-glow)] transition-all duration-300">
@@ -98,7 +98,7 @@ const Home = () => {
               </div>
               <h3 className="text-xl font-bold mb-3">Discover</h3>
               <p className="text-muted-foreground">
-                Explore talent through video reels and connect with verified scouts and coaches worldwide.
+                Explore talent through video reels and connect with verified scouts and coaches across India.
               </p>
             </Card>
 

@@ -345,7 +345,7 @@ const Auth = () => {
                   <Label htmlFor="signup-name">Full Name</Label>
                   <Input
                     id="signup-name"
-                    placeholder="John Doe"
+                    placeholder="Rahul Sharma"
                     value={signupData.fullName}
                     onChange={(e) => setSignupData({ ...signupData, fullName: e.target.value })}
                     required
@@ -485,7 +485,7 @@ const Auth = () => {
                   <Label htmlFor="business-contact">Contact Person</Label>
                   <Input
                     id="business-contact"
-                    placeholder="John Doe"
+                    placeholder="Rahul Sharma"
                     value={businessData.contactPerson}
                     onChange={(e) => setBusinessData({ ...businessData, contactPerson: e.target.value })}
                     required

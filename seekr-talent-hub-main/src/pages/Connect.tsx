@@ -18,7 +18,7 @@ const Connect = () => {
   const coaches = [
     {
       id: 1,
-      name: "Mike Chen",
+      name: "Vikram Singh",
       sport: "Basketball",
       club: "Bangalore Basketball Academy",
       experience: "8 years",
@@ -27,11 +27,11 @@ const Connect = () => {
       location: "Bangalore, India",
       price: "₹2,000/hour",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram",
     },
     {
       id: 2,
-      name: "Sarah Mitchell",
+      name: "Kavita Desai",
       sport: "Football",
       club: "Mumbai FC",
       experience: "10 years",
@@ -40,7 +40,7 @@ const Connect = () => {
       location: "Mumbai, India",
       price: "₹2,500/hour",
       verified: true,
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Kavita",
     },
     {
       id: 3,

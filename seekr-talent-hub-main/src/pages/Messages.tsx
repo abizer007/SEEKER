@@ -16,8 +16,8 @@ const Messages = () => {
   const conversations = [
     {
       id: 1,
-      name: "Sarah Mitchell",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      name: "Kavita Desai",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Kavita",
       lastMessage: "Thanks for connecting! Would love to discuss...",
       time: "2m ago",
       unread: 2,
@@ -25,8 +25,8 @@ const Messages = () => {
     },
     {
       id: 2,
-      name: "Mike Chen",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      name: "Vikram Singh",
+      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram",
       lastMessage: "Great session today! See you next week.",
       time: "1h ago",
       unread: 0,
