@@ -5,7 +5,7 @@ import { Search, Bell, MessageCircle, User, Menu } from "lucide-react";
 import { useEffect, useState } from "react";
 import { supabase } from "@/integrations/supabase/client";
 import type { User as SupabaseUser } from "@supabase/supabase-js";
-import seekrLogo from "@/assets/seekr-logo.png";
+const seekrLogo = "/favicon.jpeg";
 
 export const Navbar = () => {
   const [user, setUser] = useState<SupabaseUser | null>(null);
